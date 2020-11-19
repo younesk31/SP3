@@ -1,0 +1,9 @@
+0
+⇄ Setting up the archive!
+Ready for input
+1
+⇄ OrderNr
+Pizza price: 35 | Was ordered: In the store | Ordered on: 12/11/20 @ 10:06 | Done on: 12/11/20 @ 10:06 | Pizza Nr: 15 | Customer Name: hans | Pizza Name: Mario 
+2
+⇄ OrderNr
+Pizza price: 53 | Was ordered: On the phone | Ordered on: 12/11/20 @ 10:09 | Done on: 12/11/20 @ 10:22 | Pizza Nr: 2 | Customer Name: 2 | Pizza Name:  Amerikaner 

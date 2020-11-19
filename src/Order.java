@@ -33,7 +33,7 @@ public class Order {
      * @author Younes Karim
      * // secondary stage in which you have to input the ordernumber so that you can archive it
      **/
-    public static void secondStageFinisher(ArrayList<Pizza> Display,ArrayList<Menu> pizza, ArrayList<String> stats) throws IOException {
+    public static void secondStageFinisher(ArrayList<Pizza> Display, ArrayList<Menu> pizza, ArrayList<String> stats) throws IOException {
         Scanner input = new Scanner(System.in);
         int orderNumber;
         do {

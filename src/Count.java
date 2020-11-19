@@ -96,7 +96,7 @@ public class Count {
      **/
     public static String getdate() {
         LocalDateTime date = LocalDateTime.now();
-        DateTimeFormatter format = DateTimeFormatter.ofPattern("dd/MM/yy @ HH:mm:ss");
+        DateTimeFormatter format = DateTimeFormatter.ofPattern("dd/MM/yy @ HH:mm");
         return date.format(format);
     }
 }
